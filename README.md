@@ -7,12 +7,12 @@ Linguagens usadas até então:
 
 Categorias terminadas:
 
-- [] Iniciante
-- [] Ad-Hoc
-- [] Strings
-- [] Estruturas e Bibliotecas
-- [] Matemática
-- [] Paradigmas
-- [] Grafos
-- [] Geometria Computacional
-- [] SQL
+- [ ] Iniciante
+- [ ] Ad-Hoc
+- [ ] Strings
+- [ ] Estruturas e Bibliotecas
+- [ ] Matemática
+- [ ] Paradigmas
+- [ ] Grafos
+- [ ] Geometria Computacional
+- [ ] SQL
